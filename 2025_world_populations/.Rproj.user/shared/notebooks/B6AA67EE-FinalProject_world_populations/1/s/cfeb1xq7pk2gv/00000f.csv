@@ -1,0 +1,24 @@
+"0","# perform ANOVA test to compare if the mean population in 2023 is significantly different among regions"
+"0","anova_test = aov(Mean_Population_2023 ~ Region, data = population_stats_2023_df)"
+"0","anova_test"
+"1","Call:
+   "
+"1","aov(formula = Mean_Population_2023 ~ Region, data = population_stats_2023_df)
+"
+"1","
+Terms:
+"
+"1","               "
+"1","       Region"
+"1","
+Sum of Squares "
+"1"," 2.769405e+16"
+"1","
+Deg. of Freedom"
+"1","           10"
+"1","
+"
+"1","
+"
+"1","Estimated effects may be unbalanced
+"
