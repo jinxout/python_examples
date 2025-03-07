@@ -1,2 +1,3 @@
-# python_tutorial
-A collection of codes from classes, examples and tutorials online. Beginners or advanced, but not dedicated for one project. 
+# Python Examples
+This is a collection of Python codes written for specific tasks or capstone projects and organized as one task or project per folder.
+I comment and I am a fan of jupyter notebook. Have fun!
