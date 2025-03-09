@@ -6,7 +6,7 @@ This is the final project of the FAES class BIOF309 I took in 2025.
 **population.csv** :  https://ourworldindata.org/population-growth
 
 ## Final analysis
-**File name**: world_population_analysis.ipynb
-Hypothesis 1: World population has been constantly increasing.
-Hypothesis 2: China and India have the largest populations.
+**File name**: world_population_analysis.ipynb <br>
+Hypothesis 1: World population has been constantly increasing.<br>
+Hypothesis 2: China and India have the largest populations.<br>
 Hypothesis 3: Richer countries have lower population growth rate.
